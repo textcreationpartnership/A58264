@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered to the consideration of the honourable House of Commons, for the passing a bill now depending for the importation of salt-petre occasioned by a printed paper, called The salt-petre case.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58264</idno><idno type="EEBO-CITATION">99833871</idno>
+  <idno type="VID">38349</idno>
+  <idno type="EEBO-PROQUEST">2240928443</idno>
+  
+            <idno type="STC">Wing R554</idno>
+            <idno type="STC">ESTC R222729</idno>
+            <idno type="PROQUEST">99833871</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833871e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38349)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2214:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered to the consideration of the honourable House of Commons, for the passing a bill now depending for the importation of salt-petre occasioned by a printed paper, called The salt-petre case.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Salt-petre case --  Early works to 1800.</term>
+               <term type="topical_term">Saltpeter --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38349:1"/>
+            <head>REASONS Humbly offered to the Consideration of th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Honourable House of Commons, for the Passing a BILL now depending for the Importation of <hi>SALT-PETRE,</hi> Occasioned by a Printed Paper, called <hi>The Salt-Petre Case.</hi>
+            </head>
+            <p>SAltpetre, is a Commodity so necessary, that we can neither Fight nor Trade, or send a Ship to Sea, without it; and in time of War especially, it is our Interest to buy it, if it cannot be procured otherwise, of our Enemies. Therefore, upon the present occasion it is not material, how much those we must buy it of, will get by us; but whether we want it or no.</p>
+            <p>Nothing can be a more convincing Proof of the present want and scarcity, of Saltpetre in this Kingdom, then the excessive price it bears now, compared with what it was usually sold for formerly, and may be bought for in <hi>Holland</hi> at present. It is now, and for some time since has been sold here for about 8 <hi>l.</hi> per Hundred; the price in <hi>Holland</hi> is about one third of that, and it has been formerly much cheaper in <hi>England,</hi> than it is now in <hi>Holland.</hi>
+            </p>
+            <p>How their Majesties Stores are furnished at present, the Officers of the Ordnance well know; and how dangerous it would be for to suffer the Stores to be exhausted, or to have but a small provision of a Commodity, so necessary for the Safety and Defence of the Nation; and with which there is no prospect of being supplied, (in case of a difference with the <hi>Dutch</hi>), otherwise then by sending for it to the <hi>East-Indies;</hi> in which time the Nation may be ruined for want thereof.</p>
+            <p>But it is notorious, that the King has during the War bought great quantities of Gunpowder of the <hi>Dutch,</hi> (as the Saltpetre Case observes), above 12000 Barrels, which is another proof of the scarcity of Petre in <hi>England;</hi> for it's evidently the Interest of the Nation, for to make Gunpow<g ref="char:EOLhyphen"/>der of their own Petre, (if they had any), nay to buy Petre of the <hi>Dutch,</hi> rather then Gunpow<g ref="char:EOLhyphen"/>der, as shall appear afterwards. Therefore supposing this point made out, that there is a want of Saltpetre in <hi>England;</hi> it's sit to consider the consequences in the following Instances.</p>
+            <p n="1">1. Merchants, Owners of Ships, and Privateers, and Fishing Ships, are at considerably greater charge than ordinary, in making Provision of Powder, necessary for the defence of their Ships. Which, considering how great a share of the Calamity of this War has fallen upon the said Mer<g ref="char:EOLhyphen"/>chants, it's hoped, will weigh with the House.</p>
+            <p n="2">2. By this means, the Manufacture of Gunpowder in <hi>England</hi> is prejudiced. This the <hi>Dutch</hi> know how to value; and therefore this last year prohibited the exportation of Saltpetre for the use of their Alleys in <hi>Germany,</hi> but suffered them to have as much Gunpowder as they pleased, because a great Duty is imposed upon Gunpowder in <hi>Holland;</hi> and the <hi>Dutch</hi> get more by the Powder, then the Petre which they sell.</p>
+            <p n="3">3. Gunpowder in <hi>England,</hi> exceeding the price of Five Pound the Barrel, cannot by Law be ex<g ref="char:EOLhyphen"/>ported;
+<note place="margin">12. <hi>c.</hi> 2.</note> by which means we cannot supply <hi>Ireland,</hi> and all the <hi>English</hi> Plantations in the <hi>West-Indies,</hi> as formerly; but the <hi>Dutch</hi> find ways of furnishing them at their own rates, to their great Profit.</p>
+            <p n="4">4. Refiners are forced to send their Silver to <hi>Holland</hi> to be separated, where it can be done much cheaper than in <hi>England,</hi> by reason of the great difference in the Price of Saltpetre.</p>
+            <p n="5">5. By reason of the scarcity of Saltpetre which is a great ingredient in the composition of Glass. The Glass men are nigh ruined.</p>
+            <p n="6">6. Our Scarlet and Bow Dyers, cannot Colour without Saltpetre; and because of the great price it bears at present; Merchants find their account in sending Cloth to be dyed in <hi>Holland;</hi> and the <hi>Dutch</hi> have a great advantage of us, in Dying their own Cloths cheap for the <hi>Turkey</hi> Trade, to the prejudice of the Woollen Manufacture of this Nation.</p>
+            <p>An Imposition of Sixty pound a Tun, (modestly prescribed by the Saltpeter Case), may indeed do service to an Ingrosser, who has the greatest part of that small quantity of Saltpetre in <hi>England</hi> now in his own hands; but it is not a remedy likely to obviate the mischiefs above-mentioned, nor to recover so many useful Trades as are almost lost and ruined, by the excessive price of Salt<g ref="char:EOLhyphen"/>petre.
+<note place="margin">Petre Case.</note> But if this will not do, the said paper would have us depend upon the Two <hi>East-India</hi> Ships, coming with Saltpeter.</p>
+            <p>As to this, it is to be observed, The occasions of the Nation are pressing; but it is not certain, when, or whether or no, the said Ships will arrive, and there is the least reason to expect great quantities in those Ships, because Three <hi>East-India</hi> Ships which arrived last year, brought but Sixty Tun or thereabouts.</p>
+            <p>
+               <note place="margin">Case.</note>If other means fail, the Pattentees for making Saltpeter will supply our wants.</p>
+            <p n="1">1. The said Pattentees, have been able hitherto to make but a very inconsiderable quantity, two Tun at most, tho in respect of the great price this commodity bears, it was their Interest to make as much as was possible.</p>
+            <p n="2">2. But it does not appear, whether that little which they pretend to have made, was not bought in order to carry on the <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Stock jobbing.</p>
+            <p n="3">3. And they ought not to be trusted, because they deceived the House last Session, as appears by their Petition at that time presented, against a Bill of the same nature with this now depending; when they promised to make a Quantity sufficient by <hi>September</hi> last, to supply their Majesties and the Trades-men yet have made but two Tun, if they really made that.</p>
+            <p>
+               <note place="margin">Case.</note> It is suspected, private Merchants have bought Saltpetre in <hi>Holland,</hi> &amp;c.</p>
+            <p>This Author would do well to tell us, what publick Merchants there are in the Nation, for certainly if private Merchants deserve incouragement in any case, it is when they have the Dili<g ref="char:EOLhyphen"/>gence, or Prudence to foresee the wants of the Nation, before our Neighbours are aware of them; and if such have already bought Saltpetre in <hi>Holland,</hi> the Dutch have already got all they can get thereby, and by which the Dutch are prevented, making the great advantage they might have made, when our whole dependance (through necessity) must have been upon them.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:38349:2"/>
+            <p>THE <hi>SALT-PETER</hi> CASE.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
